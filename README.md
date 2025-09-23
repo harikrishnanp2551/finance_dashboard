@@ -41,7 +41,3 @@ streamlit_app.py
 requirements.txt
 Financial-Data-Clean.xlsx
 ```
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/85500945/ae6afceb-4773-404a-a7f7-7382706fbcc6/requirements.txt)
-[2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/85500945/d2f38b6f-dd1c-4283-940a-b52091bff3a4/streamlit_app.py)
-[3](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/85500945/7728bd66-e2c4-4243-8e70-c4ed862fe566/Financial-Data-Clean.xlsx)
