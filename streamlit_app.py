@@ -13,7 +13,6 @@ import streamlit as st
 st.set_page_config(page_title="Sales Dashboard", page_icon=":bar_chart:", layout="wide")
 
 st.title("Sales Streamlit Dashboard")
-st.markdown("_Prototype v0.4.1_")
 
 with st.sidebar:
     st.header("Configuration")
@@ -201,6 +200,8 @@ def plot_bottom_left():
         title="Monthly Budget vs Forecast 2023",
     )
     fig.update_traces(textposition="top center")
+    fig.update_traces(texttemplate='%{y:.2s}')
+
     st.plotly_chart(fig, use_container_width=True)
 
 
